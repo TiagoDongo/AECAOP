@@ -46,3 +46,9 @@ Projeto universitário para análise empírica e teórica da complexidade de alg
 ## Como contribuir
 
 Adicione novas implementações em arquivos separados e atualize este README.
+
+## 👥 Autores
+
+<a href="https://github.com/TiagoDongo/AECAOP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TiagoDongo/AECAOP" alt="Contribuidores do repositório AECAOP" />
+</a>
